@@ -33,6 +33,3 @@
 
 
 
-
-![rahul mahajan's github stats](https://github-readme-stats.vercel.app/api?username=rahul1237&show_icons=true)
-
