@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul1237" alt="rahul1237" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/1237_rahul" target="blank"><img src="https://img.shields.io/twitter/follow/rahul1237?logo=twitter&style=for-the-badge" alt="rahul1237" /></a> </p>
+<p align="left"> <a href="https://twitter.com/1237_rahul" target="blank"><img src="https://img.shields.io/twitter/follow/rahul1237?logo=twitter&style=for-the-badge" alt="1237_rahul" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rahul1237" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahul1237" height="30" width="40" /></a>
+<a href="https://twitter.com/1237_rahul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="1237_rahul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahul-mahajan-979a8a194" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahul-mahajan-979a8a194" height="30" width="40" /></a>
 <a href="https://fb.com/rahul.mahajan.7336" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rahul.mahajan.7336" height="30" width="40" /></a>
 <a href="https://instagram.com/rahul_mahajannnn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_mahajannnn" height="30" width="40" /></a>
