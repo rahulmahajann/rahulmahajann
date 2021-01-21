@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![gif from nerdy.dev](https://github.com/argyleink/rahul1237/blob/master/argyleink-sm2.gif?raw=true)
+
 ![rahul mahajan's github stats](https://github-readme-stats.vercel.app/api?username=rahul1237&show_icons=true)
 
