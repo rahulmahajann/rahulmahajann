@@ -19,9 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1b2aHgYmaLSvWku79wKAHOY3tm4H0lbpl/view](https://drive.google.com/file/d/1b2aHgYmaLSvWku79wKAHOY3tm4H0lbpl/view)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
