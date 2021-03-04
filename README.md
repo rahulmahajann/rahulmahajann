@@ -33,7 +33,7 @@
 <a href="https://codeforces.com/profile/rahulmahajan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="rahulmahajan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/rahulmahajan0201/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/rahulmahajan0201/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rahulmahajann" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="rahulmahajann" height="30" width="40" /></a>
-<a href="https://discord.gg/4244" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="4244" height="30" width="40" /></a>
+<a href="https://discord.gg/#4244" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#4244" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
