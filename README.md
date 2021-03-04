@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **rahulmahajan98645@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1b2aHgYmaLSvWku79wKAHOY3tm4H0lbpl/view](https://drive.google.com/file/d/1b2aHgYmaLSvWku79wKAHOY3tm4H0lbpl/view)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -24,13 +26,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/rahul1237" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rahul1237" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-mahajan-979a8a194/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rahul-mahajan-979a8a194/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.linkedin.com/in/rahul-mahajan-979a8a194/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.linkedin.com/in/rahul-mahajan-979a8a194/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahul-mahajan-979a8a194" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahul-mahajan-979a8a194" height="30" width="40" /></a>
+<a href="https://instagram.com/rahul_mahajannnn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_mahajannnn" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anonymous0201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anonymous0201" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rahulmahajan403" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rahulmahajan403" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rahulmahajan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="rahulmahajan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/rahulmahajan0201/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/rahulmahajan0201/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rahulmahajann" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="rahulmahajann" height="30" width="40" /></a>
+<a href="https://discord.gg/4244" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="4244" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
