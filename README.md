@@ -43,3 +43,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul1237&" alt="rahul1237" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul1237&theme=tokyonight" alt="rahul1237" /></p>
+
