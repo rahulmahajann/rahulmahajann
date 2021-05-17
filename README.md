@@ -45,3 +45,13 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmahajann&theme=radical" alt="rahulmahajann" /></p>
 
+
+<div align="center">
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmahajann&theme=blue-green)
+
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rahulmahajann&show_icons=true&locale=en" alt="rahulmahajann" /></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulmahajann&" alt="rahulmahajann" /></p>
+
+[![rahul mahajan github activity graph](https://activity-graph.herokuapp.com/graph?username=rahulmahajann&theme=react-dark)](https://github.com/rahulmahajann/github-readme-activity-graph)
