@@ -39,11 +39,11 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul1237&show_icons=true&locale=en&layout=compact" alt="rahul1237" /></p> -->
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulmahajann&show_icons=true&locale=en&theme=radical" alt="rahulmahajann" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulmahajann&show_icons=true&locale=en&theme=react-dark" alt="rahulmahajann" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulmahajann&theme=radical" alt="rahulmahajann" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulmahajann&theme=react-dark" alt="rahulmahajann" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmahajann&theme=radical" alt="rahulmahajann" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmahajann&theme=react-dark" alt="rahulmahajann" /></p>
 
 
 
