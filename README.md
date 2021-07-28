@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rahul1237](https://github.com/rahul1237)
+- 👨‍💻 All of my projects are available at [https://github.com/rahul1237](https://github.com/rahulmahajann)
 
 - 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/rahulmahajann/articles](https://auth.geeksforgeeks.org/user/rahulmahajann/articles)
 
