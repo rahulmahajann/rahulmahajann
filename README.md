@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul1237&theme=tokyonight" alt="rahul1237" /></a> </p> -->
 
-- 🔭 Intern at **GeeksForGeeks**
+- 🔭 Intern at **Scaler**
 
 - 🌱 I’m currently learning **React.**
 
