@@ -7,9 +7,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul1237&theme=tokyonight" alt="rahul1237" /></a> </p> -->
 
-- 🔭 Intern at **Scaler**
 
-- 🌱 I’m currently learning **React.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rahul1237](https://github.com/rahulmahajann)
 
@@ -18,8 +16,6 @@
 - 💬 Ask me about **Technical Content Writing,DSA**
 
 - 📫 How to reach me **rahulmahajan98645@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b2aHgYmaLSvWku79wKAHOY3tm4H0lbpl/view](https://drive.google.com/file/d/1b2aHgYmaLSvWku79wKAHOY3tm4H0lbpl/view)
 
 
 
